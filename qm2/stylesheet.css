@@ -1,0 +1,43 @@
+
+    body {
+      background-color: #E0E0E0;
+    }
+
+    .intro {
+      font-family: helvetica;
+      text-align: center;
+      padding-left: 5%;
+      padding-right: 5%;
+      width: 89%;
+      background-color: #E0E0E0;
+    }
+
+    .responsive {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+    h1 {
+      text-align: center;
+    }
+
+    h2 {
+      text-align: center;
+      padding: 2em 0em 1em 0em;
+    }
+
+    p {
+      text-align: left;
+      text-indent: 30px;
+    }
+
+    amp-youtube {
+      padding-top: 10em;
+    }
+
+
+
+  
